@@ -3,7 +3,7 @@
 > - ## **Objective :**
 >       To build a gender and age detector that can approximately guess the gender and age of the person (face) in a picture 
 >       using the deep learning
-> - ## **About project :**
+> - ## **Project details:**
 >       In this project , we will use deep learning to accurately identify the gender and age of a person from a single of image.
 >       • We will trained model for this particular target.
 >       • The predicted gender may be one of “male” and “female”, and the predicted age one of the following ranges- 
@@ -15,12 +15,12 @@
 >   ![IMG_Simple_Neural_network](https://user-images.githubusercontent.com/91953148/209838835-7dac35ef-22cf-4612-b291-4b3cd396c9f8.png)
 > - ## **CNN :**
 >   ![IMG_CNN](https://user-images.githubusercontent.com/91953148/209839369-4a40b8a6-5ac0-4900-b7f0-d4c6c57b3511.png)
-> - ## **Steps of project :**
+> - ## **project Steps:**
 >       • Detect the faces
 >       • Classify into male /female
 >       • Classify into one of the 8 age range
 >       • Put the result on the image and displays it.
-> - ## **The dataset :**
+> - ## **Dataset :**
 >       • For this project: the data set available in the public domain and you can find
 >       • https://www.kaggle.com/ttungl/adience-benchmark-genderand-age-classification
 >       • The face photos collected from various real world imaging condition like noise,lighting, pose and appearance.
@@ -38,5 +38,5 @@
 >          -  gender_net.caffemodel
 > 
 > - ## ![image](https://github.com/abhishakejutur/projects/assets/91953148/a1bc0dbe-baf3-46d9-b307-d88f1cf3903e) _**Thank you..**_ 
->        Call / whatsapp : +91 7337404176
->        Gmail : abhishake62232@gmail.com (or) abhishakejutur@gmail.com
+>        Call / whatsapp : 7095917752
+>        Gmail : lakshmipriya2313@gmail.com
